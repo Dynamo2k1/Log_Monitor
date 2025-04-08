@@ -82,4 +82,3 @@ MIT © [Dynamo](https://github.com/Dynamo2k1)
 
 > **Pro Tip**: For best results, run alongside `fail2ban` for automated blocking of brute force attacks!  
 > ⚠️ **Warning**: This tool requires root privileges to access auth.log
-```
