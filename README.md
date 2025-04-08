@@ -1,4 +1,4 @@
-# 🔐 Kali Linux Security Event Monitor (kali-sem)
+# 🔐 Kali Linux Security Event Monitor (log_monitor)
 
 ![GitHub](https://img.shields.io/badge/License-MIT-blue.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Dynamo2k1/Log_Monitor)
