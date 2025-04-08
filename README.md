@@ -25,7 +25,7 @@ git clone https://github.com/Dynamo2k1/Log_Monitor.git
 cd Log_Monitor
 
 # Make executable
-chmod +x kali-sem.sh
+chmod +x log_monitor.sh
 
 # Install dependencies
 sudo apt update && sudo apt install inotify-tools jq
